@@ -1,0 +1,128 @@
+{
+    "currentVersionInfo": {
+        "version": "1.2.5",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "buttons": {
+            "custom": {
+                "enabled": false,
+                "frames": [
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    }
+                ],
+                "page": 0
+            },
+            "delay": 0.2,
+            "duration": 0.3,
+            "enabled": true,
+            "name": "in",
+            "page": 0,
+            "selectors": "",
+            "sequence": "fromLast",
+            "timing": "linear"
+        },
+        "lists": {
+            "custom": {
+                "enabled": false,
+                "frames": [
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    }
+                ],
+                "page": 0
+            },
+            "delay": 0.04,
+            "duration": 0.3,
+            "enabled": true,
+            "name": "brick-down",
+            "page": 1,
+            "selectors": "",
+            "sequence": "fromFirst",
+            "timing": "linear",
+            "limit": 60
+        },
+        "messages": {
+            "custom": {
+                "enabled": false,
+                "frames": [
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    },
+                    {
+                        "start": "transform: scale(0);",
+                        "anim": ""
+                    }
+                ],
+                "page": 0
+            },
+            "delay": 0.04,
+            "duration": 0.4,
+            "enabled": true,
+            "limit": 30,
+            "name": "slide-right",
+            "page": 0,
+            "sending": {
+                "custom": {
+                    "enabled": false,
+                    "frames": [
+                        {
+                            "anim": "",
+                            "start": ""
+                        },
+                        {
+                            "anim": "",
+                            "start": ""
+                        },
+                        {
+                            "anim": "",
+                            "start": ""
+                        }
+                    ],
+                    "page": 0
+                },
+                "enabled": "onsent",
+                "name": "brick-up",
+                "page": 0
+            },
+            "timing": "linear"
+        },
+        "panelFix": true
+    }
+}

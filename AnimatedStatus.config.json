@@ -1,0 +1,15 @@
+{
+    "timeout": 2900,
+    "animation": [
+        {
+            "text": "007 Was Taken."
+        },
+        {
+            "text": "Aside From Your Childish Sense Of Morality And Eight-Dollar Haircut, We Have A Lot In Common."
+        },
+        {
+            "text": "You A 42 Regular?"
+        }
+    ],
+    "randomize": false
+}

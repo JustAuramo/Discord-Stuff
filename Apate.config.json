@@ -1,0 +1,32 @@
+{
+    "currentVersionInfo": {
+        "version": "1.5.9",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "encryption": 1,
+        "ctrlToSend": true,
+        "animate": true,
+        "displayImage": true,
+        "displayLock": true,
+        "password": "",
+        "passwords": [],
+        "passwordColorTable": [
+            "white"
+        ],
+        "showLoading": true,
+        "showInfo": true,
+        "saveCurrentPassword": false,
+        "showChoosePasswordConfirm": true,
+        "hiddenAboutMe": true,
+        "hiddenAboutMeText": "Piilotettu Viesti",
+        "keyPosition": 0,
+        "shiftNoEncryption": true,
+        "altChoosePassword": true,
+        "privKey": "nAuOz70gqRQBgcToUvDtdFkyRLJzJT",
+        "pubKey": "hZ4yzHw8DR/KXnxpUHu5hwBtASxd3sGVSSFFLCZ4bI+bVSq6jJhEK9OPn1fP86s9L3Q8t05knI6nXNeq3vY9rN+N7G/oC3UyPP4astNTbc+h8OCFllNO0t8bLA0CB5ld3l9WCIdNQpME/1EDdpLNG2hvkwJpnNh2lmbOKK8xv+E=",
+        "strongChannelIndex": [],
+        "pendingList": [],
+        "devMode": false
+    }
+}

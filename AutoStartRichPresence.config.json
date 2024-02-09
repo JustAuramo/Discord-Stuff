@@ -1,0 +1,43 @@
+{
+    "settings": {
+        "lastChangelogVersionSeen": "2.0.4",
+        "activeProfileID": 0,
+        "rpcEventInjection": false
+    },
+    "profiles": [
+        {
+            "name": "Kali Linux",
+            "enableStartTime": true,
+            "clientID": "910903123999096872",
+            "state": "Hacking Secret",
+            "details": "Kali Linux",
+            "largeImageText": "Kali Linux",
+            "smallImageText": "Going To Eeppinen",
+            "button1Label": "Kali Linux",
+            "button1URL": "https://www.kali.org/"
+        },
+        {
+            "name": "New Profile"
+        },
+        {
+            "name": "New Profile"
+        },
+        {
+            "name": "Kali Linux",
+            "clientID": "910903123999096872",
+            "details": "Kali Linux",
+            "state": "Hacking Secret",
+            "largeImageText": "Kali Linux",
+            "smallImageKey": "Going To Eeppinen",
+            "enableStartTime": true,
+            "button1Label": "Kali Linux",
+            "button1URL": "https://www.kali.org"
+        },
+        {
+            "name": "New Profile"
+        },
+        {
+            "name": "New Profile"
+        }
+    ]
+}

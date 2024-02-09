@@ -1,0 +1,20 @@
+{
+    "currentVersionInfo": {
+        "version": "3.2.1",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "emojiSize": 128,
+        "screenSharing": true,
+        "emojiBypass": true,
+        "ghostMode": true,
+        "freeStickersCompat": true,
+        "clientsidePfp": true,
+        "emojiBypassForValidEmoji": true,
+        "PNGemote": true,
+        "pfpUrl": "https://cdn.discordapp.com/attachments/984917064605110355/984963706880413706/Fortnite_Screenshot_2022.06.11_-_02.04.01.14.png",
+        "uploadEmotes": true,
+        "clientsideBanner": false,
+        "bannerUrl": "https://cdn.discordapp.com/attachments/943961766893862924/953741334160736286/218025368_1053465248522172_4244242853315652782_n.png"
+    }
+}

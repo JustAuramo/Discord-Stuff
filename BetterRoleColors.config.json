@@ -1,0 +1,37 @@
+{
+    "currentVersionInfo": {
+        "version": "0.8.17",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "global": {
+            "important": false
+        },
+        "modules": {
+            "typing": true,
+            "voice": true,
+            "mentions": true,
+            "chat": true,
+            "botTags": true,
+            "memberList": true
+        },
+        "popouts": {
+            "username": false,
+            "discriminator": true,
+            "nickname": false,
+            "fallback": true
+        },
+        "modals": {
+            "username": false,
+            "discriminator": false
+        },
+        "auditLog": {
+            "username": true,
+            "discriminator": false
+        },
+        "account": {
+            "username": false,
+            "discriminator": false
+        }
+    }
+}

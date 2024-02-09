@@ -1,0 +1,15 @@
+{
+	"all": {
+		"general": {
+			"closeOtherFolders": true,
+			"closeTheFolder": true,
+			"closeAllFolders": false,
+			"forceOpenFolder": false,
+			"showCountBadge": true,
+			"extraColumn": true,
+			"addSeparators": true,
+			"addFolderIcon": true,
+			"addFolderBackground": false
+		}
+	}
+}
